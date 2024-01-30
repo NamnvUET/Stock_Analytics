@@ -1,0 +1,16 @@
+# Tập tin và thư mục tạm thời
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Môi trường ảo (nếu sử dụng virtualenv hoặc venv)
+venv/
+env/
+
+# # Thư mục chứa dependencies, ví dụ với pip
+# /requirements.txt
+# /requirements/
+
+# Thư mục chứa file cài đặt
+/configs
